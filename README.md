@@ -1,2 +1,2 @@
 # kianadesigns
-Showroom of my designs and websites
+Showroom of Alani Gilberts designs and websites
