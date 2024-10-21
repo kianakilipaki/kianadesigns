@@ -1,0 +1,28 @@
+{
+    "name": "kianadesigns",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "author": "alanilyon",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kianakilipaki/kianadesigns.git"
+    },
+    "keywords": [
+        "kiana",
+        "alani"
+    ],
+    "bugs": {
+        "url": "https://github.com/kianakilipaki/kianadesigns/issues"
+    },
+    "homepage": "https://github.com/kianakilipaki/kianadesigns#readme",
+    "dependencies": {
+        "@testing-library/react": "^16.0.1",
+        "react": "^18.3.1"
+    }
+}
